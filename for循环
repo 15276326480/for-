@@ -1,0 +1,6 @@
+```python
+sum = 0
+for i in range(2, 983938484892948478284847828474):
+    sum += i
+print(sum)
+```
